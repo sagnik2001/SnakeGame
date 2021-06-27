@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ background-image: url("bg2.jpg");
+  min-height: 100vh;
+   background-size: 100vw 100vh;
+   background-repeat: no-repeat;
+
+}
+canvas{
+  box-shadow: black 20px 10px 50px;
+}
+h1 { color: #003300; font-family: 'Helvetica Neue', sans-serif;  }
